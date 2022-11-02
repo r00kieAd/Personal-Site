@@ -1,0 +1,14 @@
+<div class="contact">
+    <h3>Adhyatma Dwivedi</h3>
+    <button class="butt" onclick="window.location.href = ' '">Contact</button>
+  </div>
+
+
+  display: inline;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 50%;
+
+
+  
